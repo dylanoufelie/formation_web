@@ -1,5 +1,5 @@
 ***1.Diagramme des cas d'utilisation***
-![UseCaseDiagram1](https://github.com/dylanoufelie/tp_web/assets/95092448/d80325b2-0725-4896-9b23-72f21cb7b4d0)
+![UseCaseDiagram1](https://github.com/dylanoufelie/tp_web/assets/95092448/a9646f26-5beb-4057-9a32-6e4dc4270811)
 
 a. **Cas d'utilisation principal : Se Connecter, S'enregistrer et Accéder au Tableau de Bord**
    - **Acteurs :** Utilisateur
@@ -36,7 +36,7 @@ a. diagramme d'activité du système dans le cas d'un utilisateur déja enregist
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/4c00f24f-c965-4ba6-b8ce-1e048217707a)  
 
 ***3.Diagramme de séquence***  
-![UseCaseDiagram1](https://github.com/dylanoufelie/tp_web/assets/95092448/a9646f26-5beb-4057-9a32-6e4dc4270811)
+![SequenceqDiagram](https://github.com/dylanoufelie/tp_web/assets/95092448/58b74bfe-d9a7-4f9d-8884-bd4fdae33963)
 
 
 ***4.Diagramme de flux du système**
