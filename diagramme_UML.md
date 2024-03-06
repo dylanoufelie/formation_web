@@ -36,8 +36,7 @@ a. diagramme d'activité du système dans le cas d'un utilisateur déja enregist
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/4c00f24f-c965-4ba6-b8ce-1e048217707a)  
 
 ***3.Diagramme de séquence***  
-![SequenceqDiagram](https://github.com/dylanoufelie/tp_web/assets/95092448/58b74bfe-d9a7-4f9d-8884-bd4fdae33963)
-
+![SequenceqDiagram](https://github.com/dylanoufelie/tp_web/assets/95092448/653b9792-2c6a-4d78-84ef-68afbe0b387b)
 
 ***4.Diagramme de flux du système**
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/bc2c4626-aafd-4bdb-b570-154f4ac6ec87)  
