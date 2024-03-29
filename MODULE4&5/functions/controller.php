@@ -11,7 +11,7 @@ if (session_status() == PHP_SESSION_NONE) {
  * Contrôleur principal qui gère les différentes actions
  */
 function controller() {
-    try {
+    try{
     // Démarrer la session (si elle n'est pas déjà active)
     if (session_status() == PHP_SESSION_NONE) {
         session_start();
